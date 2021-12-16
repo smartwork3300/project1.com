@@ -1,0 +1,18 @@
+.navbar{
+    background-color: #fff;
+    box-shadow: 0 1px 6px 0 rgb(32 33 36 / 28%);
+}
+.navbar-expand-md .navbar-nav {
+    margin-left: auto;
+}
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.fa-cart-plus{
+    font-size: 40px;
+    color: #c15d07;
+} 

@@ -1,0 +1,41 @@
+.footer{
+    background: #3e3e3e;
+    color: #777;
+    padding:40px;
+    margin-top:30px;
+  }
+  .socailmediaicons{
+      padding-top:30px;
+  }
+  .socailmediaicons ul li {
+      display: inline;
+  }
+  .socailmediaicons ul li .fab{
+      color:#777;
+      text-decoration: none;
+      padding-left: 10px;
+      padding-right: 10px;
+      font-size: 25px;
+      margin-top: 10px;
+  }
+  .quicklinks{
+      padding-left: 25px;
+      padding-right: 25px;
+  }
+  .quicklinks h5{
+      color:#fff;
+  }
+  .quicklinks ul li a{
+      padding-bottom: 5px;
+      text-decoration: none;
+      color: #777;
+  
+  }
+  .copy-right p{
+      text-align: center;
+     margin-top:20px;
+      padding-top: 20px;
+    }
+    .socailmediaicons ul li .fab:hover,.quicklinks ul li a:hover{
+        color:#fff;
+    }
